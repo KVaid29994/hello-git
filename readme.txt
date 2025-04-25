@@ -15,3 +15,5 @@ Whether you're managing your own proxy network or staying ahead of updates for B
 
 Expect frequent short updates, curated insights, and pointers to helpful resources.
 Perfect for server admins, developers, and curious Minecraft tech enthusiasts.
+
+Let us do this.
