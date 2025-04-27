@@ -6,3 +6,5 @@ c = "Apple is nice"
 
 
 print (c)
+
+str1 = "Welcome to India"
